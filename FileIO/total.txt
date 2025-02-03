@@ -1,0 +1,3 @@
+Your sub total is $284.45
+Your tax is $22.90
+Your total is $307.35
