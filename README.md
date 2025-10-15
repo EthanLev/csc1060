@@ -1,3 +1,5 @@
-# CSCCOMBOFA24ELevesque
+*Computer Science / Intro to Java*
 
-My first year of Java projects
+This repository holds my work for CSC1060 — lab assignments, projects, and practice code.
+
+
